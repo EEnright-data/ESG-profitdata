@@ -5,6 +5,7 @@
 
 ## Methods
 - Use Pandas to import, filter and clean data
+- Analysis using Pandas
 - Generating visualisations using Pandas
 
 ## Outcomes
