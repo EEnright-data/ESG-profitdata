@@ -7,6 +7,7 @@
 ## Methods
 ###Use Pandas to import and clean data
 - The file was imported as a CSV into Jupyter notebook
+- Conducted exploratory data analysis to understand the data formats, null values and a heat map for correlations
 - To clean the data, the "MarketCap" and "CompanyName" columns were removed as they were not relevant for the task
 
 ###Analysis using Pandas
